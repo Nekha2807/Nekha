@@ -1,0 +1,1001 @@
+Layer thickness,Nozzle temp,Bed temp,Print speed,Material type,Model complexity,Print time,Printer type,Humidity,Cooling method,Defective
+0.24,256,90,41,Nylon,High,4.1,SLS,23,Passive,1
+0.39,260,76,52,PETG,High,3.8,FDM,59,Fan,1
+0.4,214,57,34,Nylon,High,5.0,SLA,32,Passive,0
+0.28,211,63,86,PLA,Low,2.6,FDM,26,Fan,1
+0.27,225,90,44,PLA,Medium,1.8,SLS,22,Passive,0
+0.16,215,82,93,PETG,High,2.5,SLA,61,Fan,1
+0.25,257,108,42,ABS,High,6.3,SLA,46,Fan,1
+0.31,252,66,51,ABS,Low,4.7,FDM,67,Passive,1
+0.2,249,71,71,ABS,Low,8.4,FDM,49,Active cooling,0
+0.11,231,110,71,Nylon,Medium,6.1,SLS,31,Active cooling,0
+0.24,227,53,61,PLA,Low,7.3,SLA,50,Active cooling,0
+0.22,198,110,34,PETG,Low,3.9,SLA,27,Passive,0
+0.22,196,62,91,PETG,Low,5.6,FDM,61,Active cooling,1
+0.11,229,58,99,PETG,High,7.3,SLS,70,Fan,1
+0.37,230,102,74,Nylon,Low,0.8,SLS,43,Passive,0
+0.37,212,107,65,Nylon,Medium,9.3,FDM,28,Active cooling,0
+0.33,214,62,94,Nylon,Medium,6.5,SLS,60,Fan,1
+0.3,227,64,49,PLA,High,4.4,SLS,46,Active cooling,0
+0.35,194,52,90,PETG,High,3.9,FDM,48,Fan,1
+0.15,191,93,67,ABS,Low,7.2,SLA,58,Active cooling,1
+0.26,259,102,99,PETG,Medium,7.2,FDM,52,Active cooling,1
+0.37,255,60,47,ABS,Medium,5.8,SLA,65,Passive,1
+0.13,256,58,34,Nylon,Medium,2.4,SLS,39,Active cooling,1
+0.31,243,100,33,ABS,Medium,0.7,SLA,67,Passive,1
+0.39,238,60,36,ABS,Low,2.3,SLA,42,Fan,0
+0.26,253,100,35,PLA,High,2.4,SLS,31,Passive,1
+0.32,239,63,60,ABS,Low,9.2,SLS,66,Fan,1
+0.31,216,64,54,PETG,Medium,5.5,SLS,53,Fan,0
+0.19,244,87,61,Nylon,Low,6.6,FDM,43,Fan,0
+0.24,223,76,37,PETG,Medium,7.5,FDM,22,Active cooling,0
+0.15,247,79,69,ABS,Medium,5.8,FDM,39,Active cooling,0
+0.13,191,108,55,PETG,Medium,6.6,SLA,55,Fan,0
+0.37,258,65,42,ABS,Medium,3.1,SLA,61,Passive,1
+0.32,224,51,45,PETG,Medium,2.9,SLA,67,Fan,0
+0.1,208,67,55,Nylon,Medium,4.8,SLS,22,Passive,0
+0.35,242,51,38,ABS,Medium,8.9,SLA,23,Passive,0
+0.19,238,98,81,Nylon,Medium,7.7,FDM,69,Fan,1
+0.27,192,57,31,ABS,High,7.7,FDM,50,Fan,0
+0.21,192,89,91,PLA,High,1.1,FDM,34,Passive,1
+0.14,224,110,47,PLA,High,2.8,SLA,46,Active cooling,0
+0.28,236,54,61,PLA,Low,5.8,SLA,54,Active cooling,0
+0.33,193,84,31,ABS,High,6.7,FDM,21,Fan,0
+0.29,224,83,76,PETG,Low,4.9,SLA,69,Active cooling,0
+0.29,234,110,72,PLA,Low,1.7,FDM,48,Fan,0
+0.15,224,78,47,PETG,Medium,8.7,FDM,50,Active cooling,0
+0.38,218,105,79,PETG,Low,2.6,FDM,40,Active cooling,0
+0.31,218,51,59,PETG,High,5.4,FDM,23,Active cooling,0
+0.24,257,54,38,ABS,High,8.2,SLA,45,Passive,1
+0.29,199,103,75,ABS,Medium,3.4,FDM,37,Active cooling,0
+0.2,236,93,100,ABS,Medium,3.7,FDM,40,Passive,1
+0.39,244,102,48,PLA,High,9.9,FDM,24,Active cooling,0
+0.1,248,92,65,ABS,High,3.6,SLS,43,Active cooling,0
+0.14,236,63,64,PETG,High,0.9,SLA,35,Passive,0
+0.21,224,97,96,ABS,High,5.8,SLS,20,Active cooling,1
+0.21,255,88,70,ABS,Medium,9.4,SLA,57,Passive,1
+0.21,198,68,97,ABS,Low,6.5,FDM,55,Fan,1
+0.3,217,90,72,Nylon,High,2.7,SLS,26,Passive,0
+0.29,194,52,58,PLA,High,0.9,SLS,53,Active cooling,1
+0.34,237,97,67,PETG,Low,5.3,FDM,40,Passive,0
+0.3,196,108,66,ABS,Medium,5.9,SLA,43,Passive,0
+0.28,211,54,63,ABS,Medium,2.7,SLA,49,Fan,0
+0.33,194,95,50,ABS,Low,2.6,SLS,49,Active cooling,0
+0.16,219,104,63,PETG,Low,3.7,SLS,23,Active cooling,0
+0.23,202,105,43,PETG,High,4.5,FDM,37,Passive,0
+0.24,209,99,99,ABS,Low,2.1,SLS,51,Fan,1
+0.11,224,86,98,Nylon,Medium,5.7,SLA,32,Active cooling,1
+0.16,220,75,100,PETG,High,8.4,SLA,53,Passive,1
+0.28,227,109,83,Nylon,High,6.2,FDM,27,Active cooling,1
+0.37,201,54,82,PETG,Low,7.5,FDM,58,Passive,1
+0.17,215,75,57,PETG,Medium,2.2,SLA,40,Active cooling,0
+0.13,254,61,68,PLA,Low,6.7,FDM,37,Fan,1
+0.11,200,103,58,PETG,High,1.1,FDM,31,Active cooling,0
+0.19,197,63,79,PLA,High,9.4,SLS,54,Passive,1
+0.34,218,63,89,PETG,Medium,4.7,FDM,26,Active cooling,1
+0.17,243,98,86,PLA,High,3.8,FDM,48,Fan,1
+0.4,245,69,96,PETG,Low,2.4,SLA,41,Passive,1
+0.18,247,97,48,PLA,Medium,6.9,SLS,20,Active cooling,0
+0.14,239,89,99,Nylon,Medium,4.4,SLA,36,Active cooling,1
+0.1,195,53,59,PETG,Medium,1.9,SLS,70,Active cooling,0
+0.26,228,93,39,PETG,Medium,9.8,SLA,22,Passive,0
+0.38,235,85,50,PLA,Low,6.2,SLS,67,Passive,0
+0.34,241,61,54,Nylon,Medium,6.1,SLA,25,Passive,0
+0.34,251,68,34,ABS,Medium,7.8,SLS,51,Passive,1
+0.37,206,53,55,ABS,High,5.0,SLA,45,Fan,0
+0.22,222,79,61,Nylon,Low,4.4,SLS,52,Active cooling,0
+0.24,234,106,33,PLA,Medium,8.7,SLS,42,Fan,0
+0.26,255,87,92,ABS,Medium,6.6,FDM,65,Fan,1
+0.33,218,55,91,ABS,Medium,0.5,SLA,61,Fan,1
+0.38,231,90,85,ABS,High,10.0,SLS,43,Passive,1
+0.15,233,87,94,Nylon,Medium,5.7,FDM,64,Active cooling,1
+0.17,192,80,41,Nylon,Medium,0.9,SLS,63,Passive,0
+0.15,204,59,92,Nylon,Medium,6.5,SLA,40,Active cooling,1
+0.22,244,61,71,Nylon,High,3.2,SLS,41,Fan,0
+0.19,244,67,36,PETG,High,4.2,FDM,30,Fan,0
+0.27,259,89,44,ABS,Low,5.3,SLS,48,Passive,1
+0.13,207,77,42,ABS,High,3.3,SLA,23,Fan,0
+0.13,253,77,91,Nylon,Low,6.5,SLS,41,Fan,1
+0.2,201,97,40,Nylon,Medium,9.9,SLS,43,Passive,0
+0.15,194,104,53,ABS,High,8.0,SLA,26,Passive,0
+0.13,240,77,77,Nylon,Low,4.5,SLS,53,Fan,0
+0.35,233,58,83,PLA,Medium,9.3,SLS,20,Passive,1
+0.35,192,54,59,PLA,Low,9.6,SLS,24,Passive,0
+0.35,248,97,54,PLA,Low,6.7,SLS,69,Passive,0
+0.19,223,63,100,Nylon,High,4.1,FDM,24,Fan,1
+0.27,227,51,87,PLA,Medium,2.1,SLA,20,Passive,1
+0.23,196,69,52,PLA,Low,1.7,SLA,50,Active cooling,0
+0.37,232,105,33,PLA,Low,9.9,SLS,34,Fan,0
+0.35,197,96,37,PETG,Medium,5.9,FDM,60,Active cooling,0
+0.17,208,86,73,PETG,Low,8.4,SLS,29,Active cooling,0
+0.38,249,91,57,Nylon,Medium,6.2,SLA,70,Active cooling,0
+0.2,213,71,85,ABS,High,2.6,SLA,32,Fan,1
+0.22,239,84,84,ABS,High,4.7,FDM,36,Fan,1
+0.12,249,53,78,Nylon,Low,5.9,SLS,21,Fan,0
+0.19,213,76,80,PLA,Low,9.3,FDM,46,Passive,0
+0.28,218,81,47,Nylon,High,3.0,SLA,52,Fan,1
+0.17,239,95,33,PETG,High,7.8,FDM,29,Fan,0
+0.26,211,52,93,Nylon,Medium,3.4,SLS,54,Active cooling,1
+0.2,209,107,60,PETG,Low,4.0,FDM,61,Passive,0
+0.32,194,89,40,PETG,Medium,1.0,SLS,46,Fan,0
+0.27,211,76,74,PETG,High,7.3,FDM,42,Fan,0
+0.4,239,75,46,PLA,Low,1.1,FDM,54,Active cooling,0
+0.13,206,54,67,Nylon,Low,1.1,SLA,63,Passive,0
+0.21,243,67,90,PLA,High,1.2,SLA,57,Active cooling,1
+0.4,246,106,91,PETG,Low,8.1,SLS,33,Passive,1
+0.35,203,52,61,PETG,Low,3.1,FDM,37,Active cooling,0
+0.33,239,51,93,PETG,High,2.3,SLS,20,Active cooling,1
+0.25,239,97,75,PLA,High,3.3,SLS,41,Fan,0
+0.23,231,84,87,PLA,High,8.3,SLS,63,Fan,1
+0.25,245,109,31,PETG,Low,9.1,SLS,62,Fan,0
+0.27,235,110,82,Nylon,High,5.8,SLS,55,Fan,1
+0.15,210,89,83,Nylon,Medium,2.3,FDM,23,Fan,1
+0.15,248,87,59,PLA,Medium,8.0,FDM,27,Active cooling,0
+0.14,214,53,56,Nylon,Medium,7.6,SLA,42,Active cooling,0
+0.22,252,110,46,Nylon,High,4.8,SLA,36,Passive,1
+0.16,247,101,84,PLA,High,4.0,SLS,45,Passive,1
+0.39,204,77,43,PETG,High,4.9,SLS,42,Active cooling,0
+0.18,258,94,78,PETG,High,7.7,SLA,21,Passive,1
+0.34,221,67,35,ABS,Low,6.5,SLS,37,Passive,0
+0.19,229,107,86,Nylon,High,0.6,SLA,42,Fan,1
+0.3,232,87,40,ABS,Medium,7.6,FDM,36,Fan,0
+0.38,228,75,63,PETG,Medium,3.7,SLA,68,Active cooling,0
+0.12,236,80,60,PLA,Medium,7.6,SLA,55,Passive,0
+0.36,255,90,56,PLA,Low,4.5,FDM,45,Fan,1
+0.11,256,63,42,ABS,Medium,6.1,SLA,50,Active cooling,1
+0.13,190,109,34,Nylon,High,4.7,SLS,62,Active cooling,1
+0.37,191,58,31,PETG,Low,0.6,SLA,46,Active cooling,0
+0.14,227,64,48,PETG,Medium,8.3,FDM,20,Fan,0
+0.38,192,105,67,PLA,Medium,7.8,SLS,49,Active cooling,0
+0.34,256,70,95,ABS,Low,0.9,SLS,49,Passive,1
+0.29,217,60,76,PETG,Medium,0.7,SLS,59,Active cooling,0
+0.26,204,62,82,PLA,Low,6.3,FDM,59,Passive,1
+0.17,202,79,83,ABS,Low,2.1,SLS,54,Passive,1
+0.3,245,50,96,PETG,High,5.3,FDM,52,Fan,1
+0.17,199,85,93,PLA,Low,5.8,SLA,46,Passive,1
+0.32,236,57,58,Nylon,Medium,2.1,FDM,43,Passive,0
+0.12,253,68,91,PLA,Low,2.4,SLS,20,Fan,1
+0.34,237,62,63,PLA,High,5.0,FDM,25,Fan,0
+0.34,247,77,75,ABS,Medium,5.8,SLS,44,Passive,0
+0.16,245,97,53,Nylon,High,3.7,SLA,58,Fan,1
+0.21,230,79,60,PETG,High,4.0,FDM,55,Active cooling,1
+0.28,215,63,74,Nylon,Medium,3.8,FDM,47,Fan,0
+0.4,195,72,45,ABS,Medium,9.5,SLS,29,Active cooling,0
+0.12,244,103,96,ABS,Low,7.9,SLA,32,Fan,1
+0.15,250,103,41,PETG,Low,3.2,FDM,29,Active cooling,0
+0.11,222,50,77,Nylon,Medium,6.5,SLA,40,Passive,0
+0.25,204,76,44,PETG,High,4.8,SLA,52,Active cooling,1
+0.32,241,63,43,PETG,Low,2.6,SLS,55,Fan,0
+0.26,237,63,62,Nylon,High,9.5,SLA,63,Fan,1
+0.38,218,60,38,PLA,Low,9.7,SLA,23,Active cooling,0
+0.21,222,51,39,PETG,Low,1.7,SLA,26,Passive,0
+0.15,202,101,87,ABS,Low,2.4,FDM,20,Active cooling,1
+0.16,258,71,54,Nylon,Medium,6.7,SLA,64,Passive,1
+0.32,243,50,99,PETG,Low,9.3,FDM,52,Fan,1
+0.36,229,67,84,PLA,Low,3.2,SLS,25,Active cooling,1
+0.27,202,65,73,ABS,Low,3.9,FDM,60,Fan,1
+0.26,238,79,49,PLA,Low,9.2,SLA,28,Active cooling,0
+0.39,199,80,99,Nylon,Low,1.0,SLS,36,Passive,1
+0.31,208,104,88,ABS,High,6.5,FDM,68,Fan,1
+0.17,192,96,33,PLA,Low,7.2,SLS,49,Active cooling,0
+0.11,241,81,39,PETG,High,6.8,SLA,38,Fan,0
+0.2,198,93,43,PLA,Low,8.8,SLS,58,Fan,0
+0.28,193,63,74,Nylon,Medium,3.2,FDM,25,Passive,0
+0.36,252,68,76,PLA,High,5.4,SLS,35,Passive,1
+0.1,224,93,48,Nylon,Low,9.9,FDM,51,Passive,0
+0.3,216,93,65,PETG,Low,5.5,FDM,51,Active cooling,0
+0.38,198,58,58,PETG,High,6.6,SLA,59,Passive,1
+0.14,210,104,70,PLA,Low,7.6,SLS,23,Fan,0
+0.19,257,106,100,PLA,Low,4.4,FDM,44,Fan,1
+0.21,251,105,77,Nylon,Low,1.7,SLS,36,Active cooling,1
+0.23,230,93,76,PLA,High,6.1,SLA,35,Passive,0
+0.12,246,103,53,ABS,Low,5.7,SLA,26,Active cooling,0
+0.33,202,77,66,ABS,High,3.0,SLA,64,Passive,1
+0.1,220,103,100,PETG,High,1.4,FDM,53,Passive,1
+0.4,259,78,100,PETG,High,7.1,FDM,50,Passive,1
+0.3,243,64,36,ABS,Low,9.2,SLA,27,Active cooling,0
+0.13,231,76,86,ABS,Medium,0.9,SLA,21,Active cooling,1
+0.31,195,74,77,PLA,Low,7.4,FDM,34,Fan,0
+0.26,198,55,75,ABS,Low,2.1,SLA,70,Passive,1
+0.18,219,50,94,Nylon,Low,2.5,SLA,36,Active cooling,1
+0.36,194,99,41,ABS,High,6.8,SLS,70,Passive,1
+0.15,249,108,55,PLA,Low,8.9,SLA,23,Fan,0
+0.37,192,74,34,Nylon,High,7.8,FDM,45,Passive,0
+0.11,255,55,39,PETG,Low,2.6,SLS,53,Active cooling,1
+0.28,203,107,77,PLA,Medium,2.7,SLS,60,Fan,0
+0.34,234,74,40,ABS,Low,8.0,SLS,52,Passive,0
+0.3,242,109,79,Nylon,Low,0.7,SLS,37,Fan,0
+0.31,232,59,100,ABS,Low,2.3,FDM,43,Fan,1
+0.31,219,54,36,PETG,Low,7.2,SLA,25,Fan,0
+0.22,234,56,87,PLA,Low,5.9,FDM,27,Active cooling,1
+0.12,230,79,42,Nylon,High,6.0,FDM,22,Fan,0
+0.38,237,104,61,PETG,Low,1.1,SLA,51,Fan,0
+0.39,210,51,67,PETG,High,9.6,SLA,25,Passive,0
+0.33,225,59,51,ABS,High,3.0,SLS,55,Passive,1
+0.35,212,54,50,PLA,Low,6.0,SLS,61,Active cooling,0
+0.14,214,64,97,ABS,High,5.4,SLS,42,Passive,1
+0.31,258,75,36,Nylon,High,6.8,SLA,20,Fan,1
+0.37,243,91,69,Nylon,Low,1.7,SLA,67,Active cooling,0
+0.21,223,81,50,ABS,High,4.3,SLA,22,Passive,0
+0.11,240,66,35,PLA,Medium,1.7,SLS,22,Fan,0
+0.28,194,101,85,PETG,Low,0.7,FDM,31,Fan,1
+0.17,260,84,82,Nylon,High,4.8,SLS,22,Active cooling,1
+0.25,241,83,30,PETG,Low,0.7,SLA,39,Active cooling,0
+0.31,241,89,86,Nylon,Medium,2.4,SLA,42,Fan,1
+0.13,218,51,96,ABS,High,7.1,FDM,69,Passive,1
+0.3,236,98,96,PETG,Low,4.1,SLS,41,Active cooling,1
+0.12,245,60,81,PETG,Low,7.6,SLA,51,Active cooling,1
+0.13,213,78,100,PETG,Medium,0.6,FDM,27,Passive,1
+0.11,253,94,73,PLA,Medium,3.3,SLS,60,Fan,1
+0.3,259,64,37,PLA,Medium,2.1,FDM,46,Passive,1
+0.28,197,106,75,PLA,High,4.4,SLS,29,Fan,0
+0.21,260,56,50,Nylon,High,3.6,FDM,50,Fan,1
+0.15,242,64,73,Nylon,High,6.1,SLA,68,Passive,1
+0.3,234,98,56,PETG,Medium,10.0,FDM,60,Passive,0
+0.36,230,75,87,Nylon,High,1.8,FDM,49,Active cooling,1
+0.22,210,64,92,PETG,Low,7.6,SLS,46,Passive,1
+0.37,227,88,91,PLA,Low,4.3,SLA,31,Active cooling,1
+0.29,251,94,66,ABS,Low,8.4,SLS,66,Passive,1
+0.26,199,53,85,Nylon,Low,6.4,SLS,63,Active cooling,1
+0.34,249,110,31,PLA,Medium,3.1,SLA,61,Fan,0
+0.14,198,77,63,PLA,High,7.7,SLA,42,Fan,0
+0.3,207,96,42,PLA,Medium,3.1,SLS,53,Fan,0
+0.11,210,50,95,ABS,High,8.4,SLS,61,Fan,1
+0.14,196,95,65,PLA,Low,5.5,FDM,21,Active cooling,0
+0.34,193,59,78,PLA,High,1.5,SLS,23,Fan,0
+0.37,194,99,94,PLA,High,3.7,SLA,31,Passive,1
+0.31,254,80,71,ABS,Low,1.0,FDM,48,Passive,1
+0.13,221,73,73,PLA,Low,4.5,SLA,59,Active cooling,0
+0.26,209,89,70,ABS,High,4.8,SLA,61,Active cooling,1
+0.21,213,99,32,PLA,Low,5.7,FDM,56,Fan,0
+0.34,214,56,84,PLA,High,6.5,FDM,35,Passive,1
+0.18,223,76,42,ABS,Low,8.2,SLS,39,Passive,0
+0.27,196,82,43,Nylon,Low,2.3,SLA,69,Passive,0
+0.16,205,90,36,PLA,Medium,8.6,FDM,46,Active cooling,0
+0.33,235,85,67,PLA,Medium,4.6,FDM,61,Active cooling,0
+0.17,203,91,36,PLA,High,4.0,SLS,47,Active cooling,0
+0.24,257,71,40,Nylon,High,3.7,SLS,51,Fan,1
+0.32,228,78,55,PETG,Low,5.1,SLS,59,Passive,0
+0.13,194,100,63,ABS,High,3.5,FDM,51,Active cooling,1
+0.23,220,98,43,ABS,Low,4.8,SLA,25,Active cooling,0
+0.34,230,92,98,Nylon,Medium,7.2,SLS,59,Active cooling,1
+0.2,222,67,45,PETG,High,7.8,SLS,31,Active cooling,0
+0.38,207,86,39,ABS,Low,7.2,SLS,55,Active cooling,0
+0.32,239,72,60,ABS,High,3.6,SLS,47,Passive,0
+0.3,260,90,80,PETG,High,6.6,FDM,26,Active cooling,1
+0.11,213,69,95,PETG,Medium,6.7,FDM,54,Fan,1
+0.25,198,100,64,PLA,High,0.9,FDM,50,Active cooling,0
+0.28,255,81,44,Nylon,Medium,1.7,SLS,22,Active cooling,1
+0.23,228,67,39,PLA,Medium,7.0,SLS,66,Fan,0
+0.19,195,65,77,ABS,Low,0.7,SLA,54,Passive,0
+0.23,215,82,94,PETG,Medium,3.0,SLS,39,Fan,1
+0.1,256,100,54,ABS,Low,6.1,SLS,69,Fan,1
+0.34,191,96,31,ABS,Medium,9.5,SLS,45,Passive,0
+0.13,237,81,38,Nylon,Medium,8.5,SLS,60,Fan,0
+0.13,225,62,35,Nylon,Medium,7.6,SLS,39,Active cooling,0
+0.22,258,66,78,Nylon,High,1.1,SLS,38,Active cooling,1
+0.26,225,76,77,PETG,Medium,3.6,SLS,39,Active cooling,0
+0.24,229,64,90,Nylon,High,1.2,SLS,28,Active cooling,1
+0.36,218,65,45,ABS,High,3.2,FDM,53,Active cooling,1
+0.37,235,105,55,ABS,Medium,3.1,SLS,22,Active cooling,0
+0.19,222,64,74,Nylon,High,9.7,SLA,47,Passive,0
+0.15,215,60,70,Nylon,Low,1.2,SLA,49,Passive,0
+0.2,260,75,85,ABS,Low,9.5,SLS,47,Fan,1
+0.34,218,107,65,PETG,Low,9.1,SLA,53,Passive,0
+0.37,227,83,80,PLA,Medium,6.7,SLA,64,Active cooling,0
+0.37,250,93,84,Nylon,Medium,3.4,FDM,51,Fan,1
+0.13,234,68,65,PETG,High,8.4,FDM,59,Passive,1
+0.28,212,99,73,Nylon,High,0.7,SLA,61,Fan,1
+0.35,224,95,41,ABS,Low,0.6,SLS,33,Fan,0
+0.18,236,89,52,ABS,Medium,4.1,FDM,52,Passive,0
+0.35,216,71,47,PETG,Medium,7.5,SLA,60,Active cooling,0
+0.2,200,78,94,Nylon,Low,6.5,SLS,23,Passive,1
+0.19,254,52,59,Nylon,Low,6.8,SLS,37,Active cooling,1
+0.32,191,50,45,ABS,High,9.2,SLS,68,Fan,1
+0.13,190,53,32,ABS,High,4.9,FDM,51,Active cooling,1
+0.22,215,87,43,PLA,High,3.5,SLA,38,Passive,0
+0.39,235,54,88,PETG,High,9.9,SLS,44,Fan,1
+0.12,219,90,33,ABS,Medium,1.2,FDM,30,Passive,0
+0.17,203,70,38,ABS,Medium,7.2,SLA,57,Fan,1
+0.25,201,68,88,ABS,Medium,2.2,SLA,52,Fan,1
+0.16,258,71,82,Nylon,High,0.9,SLA,33,Passive,1
+0.36,246,108,76,Nylon,Low,4.2,SLA,56,Passive,0
+0.29,209,101,78,PLA,Medium,8.4,SLS,42,Passive,0
+0.26,193,75,78,PETG,Low,6.4,SLS,30,Passive,0
+0.36,194,54,79,PLA,Low,8.9,SLA,68,Passive,0
+0.36,195,98,100,PETG,Low,0.5,FDM,21,Active cooling,1
+0.37,247,95,77,Nylon,High,6.3,SLS,62,Fan,1
+0.39,244,107,33,ABS,Medium,8.7,SLS,27,Passive,0
+0.23,191,85,45,PLA,Low,9.3,SLS,44,Fan,0
+0.28,224,90,34,Nylon,Low,4.2,SLA,25,Fan,0
+0.4,240,107,43,PLA,Low,3.8,SLS,67,Passive,0
+0.1,218,67,100,Nylon,High,5.4,SLA,66,Active cooling,1
+0.17,197,62,49,Nylon,Medium,7.9,FDM,43,Passive,0
+0.27,245,100,61,Nylon,Low,6.0,SLS,39,Active cooling,0
+0.11,246,75,87,Nylon,Low,1.1,FDM,50,Active cooling,1
+0.27,251,100,76,Nylon,Low,8.4,SLS,20,Passive,1
+0.27,211,77,79,Nylon,Medium,3.3,SLA,66,Fan,0
+0.3,191,60,94,PETG,Low,9.1,FDM,63,Fan,1
+0.38,258,67,87,PLA,Medium,2.6,SLA,26,Active cooling,1
+0.38,254,60,58,PETG,Medium,3.5,FDM,54,Active cooling,1
+0.39,192,65,66,Nylon,Medium,4.3,SLA,30,Fan,0
+0.34,222,93,96,ABS,High,7.4,SLA,50,Active cooling,1
+0.24,258,95,45,ABS,Medium,2.7,FDM,59,Passive,1
+0.39,257,78,72,ABS,Medium,3.0,SLA,49,Passive,1
+0.12,231,90,50,Nylon,Low,7.9,FDM,21,Passive,0
+0.38,214,78,69,PETG,Medium,3.1,SLS,46,Passive,0
+0.21,217,107,62,PETG,Medium,6.4,SLA,44,Active cooling,0
+0.28,220,102,55,ABS,High,8.2,FDM,35,Passive,0
+0.31,236,108,40,ABS,Medium,7.5,SLS,42,Active cooling,0
+0.24,213,78,41,Nylon,Low,8.3,SLS,70,Passive,0
+0.37,229,63,34,PLA,High,5.3,SLS,60,Fan,1
+0.18,239,54,40,ABS,High,4.1,SLA,46,Passive,0
+0.12,209,106,93,PETG,High,9.8,SLS,34,Fan,1
+0.1,214,55,63,PLA,Low,8.0,FDM,55,Fan,0
+0.35,237,78,69,PETG,Low,1.0,FDM,41,Fan,0
+0.31,239,75,49,PETG,Low,5.8,SLA,33,Active cooling,0
+0.17,235,91,49,PLA,Medium,7.7,SLA,20,Passive,0
+0.2,229,71,33,PETG,Low,5.0,FDM,51,Active cooling,0
+0.12,245,96,51,PLA,Low,7.3,SLA,39,Active cooling,0
+0.2,259,109,95,PLA,Medium,9.1,SLS,60,Active cooling,1
+0.12,259,88,61,Nylon,Medium,8.6,FDM,64,Fan,1
+0.16,214,53,39,PLA,Low,6.7,FDM,46,Passive,0
+0.38,214,68,67,Nylon,High,7.5,SLS,28,Passive,0
+0.11,241,71,81,ABS,Low,0.8,FDM,39,Fan,1
+0.36,253,78,79,Nylon,Low,4.3,SLA,25,Active cooling,1
+0.34,206,89,53,PLA,High,3.2,SLA,54,Active cooling,1
+0.24,194,76,33,PLA,Low,4.7,SLS,64,Active cooling,0
+0.33,255,74,57,ABS,High,7.0,FDM,70,Active cooling,1
+0.33,246,100,54,Nylon,Medium,8.9,SLA,49,Fan,0
+0.29,191,105,48,Nylon,Low,0.9,SLS,65,Fan,0
+0.15,221,55,89,ABS,Medium,6.8,SLS,46,Fan,1
+0.3,236,66,62,PETG,Low,7.6,SLA,34,Fan,0
+0.12,194,73,68,Nylon,Medium,7.7,SLS,33,Active cooling,0
+0.24,235,66,35,Nylon,High,3.6,SLA,23,Fan,0
+0.24,222,91,72,PLA,High,2.0,FDM,69,Active cooling,1
+0.17,235,60,64,Nylon,Low,7.0,SLS,54,Fan,0
+0.13,221,76,98,ABS,Medium,2.8,SLA,45,Passive,1
+0.39,238,94,76,ABS,Medium,9.3,SLS,55,Passive,0
+0.31,250,97,66,PETG,Low,6.6,FDM,41,Passive,0
+0.34,196,73,85,PETG,Medium,1.5,SLA,68,Passive,1
+0.26,260,63,39,PETG,Medium,5.8,FDM,69,Active cooling,1
+0.3,231,59,60,Nylon,Medium,6.1,FDM,49,Active cooling,0
+0.1,231,105,80,ABS,High,4.2,FDM,68,Fan,1
+0.16,223,72,36,Nylon,Low,7.8,SLS,62,Fan,0
+0.11,216,79,84,PETG,High,5.5,SLA,41,Active cooling,1
+0.34,236,101,35,PLA,High,3.9,FDM,47,Passive,0
+0.13,256,85,42,PLA,Medium,1.1,FDM,25,Passive,1
+0.21,223,89,72,PLA,Medium,5.0,SLS,63,Fan,0
+0.21,191,97,34,PETG,High,8.4,SLS,25,Active cooling,0
+0.3,245,98,61,PLA,Medium,4.8,SLS,44,Passive,0
+0.1,201,91,42,ABS,High,9.8,SLS,30,Passive,0
+0.31,235,60,73,PETG,Medium,1.6,SLA,59,Active cooling,0
+0.15,251,94,52,Nylon,Low,7.6,SLA,56,Fan,1
+0.22,198,85,69,Nylon,High,9.9,SLS,47,Fan,0
+0.16,250,93,58,Nylon,Low,9.6,SLS,27,Active cooling,0
+0.2,202,100,80,PLA,High,6.2,FDM,57,Passive,1
+0.34,244,91,92,Nylon,Low,8.8,SLA,70,Passive,1
+0.18,212,54,98,ABS,Medium,8.8,SLS,20,Fan,1
+0.21,251,100,68,PETG,Low,3.3,FDM,25,Active cooling,1
+0.31,252,81,31,PLA,Low,1.6,SLS,33,Active cooling,1
+0.1,245,61,99,ABS,High,2.7,FDM,52,Active cooling,1
+0.19,231,96,87,PETG,Low,2.0,FDM,44,Fan,1
+0.23,223,75,35,Nylon,High,0.6,SLS,40,Active cooling,0
+0.36,194,106,59,ABS,High,3.2,SLA,63,Fan,1
+0.21,225,71,75,Nylon,High,5.5,FDM,57,Fan,1
+0.1,259,109,81,Nylon,High,4.2,SLA,37,Fan,1
+0.34,247,92,41,PLA,High,7.1,FDM,51,Active cooling,1
+0.1,232,61,53,Nylon,High,8.5,SLS,54,Passive,1
+0.2,223,82,95,ABS,Low,3.5,SLS,27,Fan,1
+0.26,254,91,73,Nylon,High,1.7,FDM,50,Passive,1
+0.37,227,110,84,ABS,High,8.3,SLA,51,Passive,1
+0.16,232,78,90,PETG,High,1.6,FDM,45,Active cooling,1
+0.24,243,91,76,ABS,High,8.6,SLA,50,Fan,0
+0.17,229,99,32,ABS,High,5.2,SLA,49,Active cooling,0
+0.32,210,65,79,PLA,Medium,4.2,SLS,69,Active cooling,0
+0.28,231,64,53,Nylon,High,0.8,SLA,55,Fan,1
+0.31,218,99,86,ABS,Low,9.7,SLA,20,Fan,1
+0.3,234,53,55,PLA,Low,7.0,SLS,55,Passive,0
+0.13,244,81,90,Nylon,Medium,1.5,FDM,46,Active cooling,1
+0.1,242,86,81,PLA,Medium,4.4,SLA,52,Fan,1
+0.14,219,73,64,PLA,High,9.9,SLS,65,Passive,1
+0.1,241,91,67,PETG,Low,3.4,SLA,60,Passive,0
+0.19,205,86,99,Nylon,Low,5.5,FDM,31,Active cooling,1
+0.3,234,70,81,PLA,High,5.9,SLS,66,Fan,1
+0.17,234,84,50,PLA,High,10.0,SLA,40,Passive,0
+0.35,223,77,77,ABS,Medium,5.4,SLS,67,Active cooling,1
+0.3,253,54,84,PLA,Low,1.8,SLS,47,Passive,1
+0.13,225,72,31,ABS,Low,3.2,FDM,67,Fan,1
+0.1,190,104,97,PLA,Medium,4.8,SLA,39,Active cooling,1
+0.21,200,55,92,PLA,Low,1.2,SLA,39,Passive,1
+0.11,238,55,75,PETG,High,7.9,SLS,20,Fan,0
+0.2,201,88,53,PLA,High,4.6,FDM,35,Passive,0
+0.33,228,66,48,ABS,Medium,6.4,FDM,24,Passive,0
+0.33,196,86,33,ABS,Low,8.4,SLA,38,Fan,0
+0.26,203,87,41,PETG,High,0.8,SLS,37,Fan,0
+0.19,218,82,61,PLA,High,0.6,SLS,45,Fan,0
+0.39,230,98,37,Nylon,Medium,7.3,FDM,64,Passive,0
+0.16,217,104,100,ABS,Medium,6.8,SLS,22,Passive,1
+0.33,213,89,68,ABS,Low,3.7,FDM,22,Fan,0
+0.28,191,101,77,PLA,Medium,7.7,SLS,67,Active cooling,0
+0.35,259,59,33,PETG,Medium,8.6,SLS,31,Fan,1
+0.36,226,71,82,ABS,Medium,1.3,FDM,45,Passive,1
+0.18,260,79,56,ABS,Low,9.8,SLS,48,Fan,1
+0.29,199,66,30,ABS,High,4.7,SLS,32,Fan,0
+0.3,219,96,52,ABS,Medium,4.6,SLA,59,Fan,1
+0.29,228,94,76,ABS,Low,1.1,SLS,44,Passive,0
+0.23,245,65,40,Nylon,High,5.3,FDM,31,Passive,0
+0.26,247,52,37,ABS,High,3.4,FDM,70,Passive,1
+0.18,240,90,55,Nylon,Medium,3.2,SLS,24,Fan,0
+0.12,202,85,71,ABS,High,3.0,SLA,20,Passive,0
+0.39,202,62,37,ABS,Low,8.6,SLS,68,Fan,1
+0.16,259,68,70,Nylon,High,1.1,SLA,58,Fan,1
+0.32,207,108,50,PLA,Medium,4.7,SLS,38,Passive,0
+0.2,257,105,91,Nylon,High,6.9,FDM,39,Fan,1
+0.36,211,75,66,ABS,Medium,8.0,SLS,48,Active cooling,0
+0.15,246,51,76,PETG,High,2.0,FDM,59,Active cooling,1
+0.28,243,83,62,ABS,Low,4.4,FDM,33,Active cooling,0
+0.27,252,102,56,PLA,High,4.3,SLS,26,Passive,1
+0.28,199,101,34,PLA,Medium,6.9,SLS,30,Passive,0
+0.15,226,107,47,PLA,Low,9.1,SLA,50,Passive,0
+0.38,225,87,79,PLA,High,1.7,SLA,69,Active cooling,1
+0.16,235,99,63,PLA,Medium,7.0,SLA,70,Active cooling,0
+0.38,235,58,43,PETG,Low,4.1,SLS,46,Active cooling,0
+0.17,223,52,90,ABS,High,7.4,FDM,22,Active cooling,1
+0.36,227,52,30,ABS,High,1.0,SLA,57,Passive,1
+0.24,207,57,65,Nylon,Low,2.1,SLA,31,Passive,0
+0.18,235,107,55,ABS,Low,3.3,SLS,55,Passive,0
+0.23,236,95,57,ABS,Low,4.7,SLS,61,Active cooling,1
+0.11,259,84,49,PETG,Medium,4.6,SLS,36,Fan,1
+0.19,243,68,70,PLA,Medium,5.1,SLS,69,Active cooling,0
+0.27,245,80,58,Nylon,High,2.1,SLA,65,Active cooling,1
+0.38,213,53,38,Nylon,Medium,8.5,SLA,27,Passive,0
+0.3,245,106,80,PLA,High,3.3,FDM,48,Fan,0
+0.3,205,109,33,ABS,Medium,1.4,FDM,27,Passive,0
+0.29,239,95,99,ABS,Medium,3.1,SLA,45,Fan,1
+0.19,195,77,61,PLA,Medium,7.6,FDM,26,Active cooling,0
+0.3,192,93,51,PETG,Medium,1.1,SLA,28,Fan,0
+0.12,205,86,93,PETG,Medium,8.7,FDM,36,Active cooling,1
+0.11,226,86,62,PLA,High,1.7,FDM,66,Passive,1
+0.19,238,91,89,ABS,Low,2.6,SLA,51,Active cooling,1
+0.28,204,83,45,PLA,Low,0.9,SLA,34,Fan,0
+0.37,222,61,38,PLA,High,4.8,FDM,65,Passive,1
+0.37,256,89,61,PETG,Low,6.1,SLA,31,Passive,1
+0.12,228,52,48,ABS,High,7.8,SLA,39,Passive,0
+0.15,234,81,48,PETG,Medium,1.6,FDM,22,Fan,0
+0.32,211,56,44,ABS,Low,8.8,FDM,43,Active cooling,0
+0.12,228,58,74,PETG,High,9.8,FDM,37,Fan,0
+0.26,209,62,98,ABS,High,0.6,SLS,60,Passive,1
+0.18,258,78,88,Nylon,Low,9.1,SLA,56,Fan,1
+0.37,199,95,97,PETG,High,1.5,SLS,66,Passive,1
+0.1,251,61,71,PLA,Medium,5.2,FDM,45,Fan,1
+0.3,214,101,97,PETG,High,4.8,FDM,41,Passive,1
+0.31,220,97,96,Nylon,Low,8.2,SLS,28,Passive,1
+0.24,197,63,96,ABS,Low,4.2,SLS,21,Passive,1
+0.28,232,94,47,Nylon,Low,5.5,SLA,44,Active cooling,0
+0.2,246,70,82,ABS,High,4.5,SLA,38,Fan,1
+0.37,190,71,99,PETG,High,9.2,FDM,34,Fan,1
+0.14,225,100,65,ABS,Medium,9.2,SLS,67,Passive,1
+0.39,238,60,43,Nylon,High,5.7,SLA,45,Active cooling,0
+0.32,197,81,34,PETG,Medium,1.6,SLA,63,Active cooling,0
+0.23,231,86,94,PLA,Medium,6.8,FDM,55,Fan,1
+0.35,253,87,49,PLA,Low,3.4,SLS,31,Active cooling,1
+0.22,251,74,89,ABS,Medium,6.4,SLS,57,Fan,1
+0.28,236,95,36,Nylon,High,5.9,FDM,30,Passive,0
+0.23,202,72,34,Nylon,Medium,2.0,FDM,21,Fan,0
+0.17,193,61,47,ABS,High,4.9,SLA,50,Fan,0
+0.39,252,71,50,PLA,Low,5.0,FDM,55,Active cooling,1
+0.12,201,84,72,ABS,Medium,3.2,FDM,58,Fan,1
+0.11,245,103,90,PETG,High,9.6,FDM,53,Active cooling,1
+0.3,221,95,56,PLA,Medium,9.8,SLA,63,Passive,0
+0.33,240,78,69,Nylon,Low,4.8,FDM,47,Active cooling,0
+0.31,259,77,97,Nylon,Medium,4.5,SLS,27,Passive,1
+0.12,201,68,95,PLA,Medium,3.8,SLA,55,Fan,1
+0.23,200,100,66,PLA,Medium,4.8,SLS,48,Passive,0
+0.23,238,83,76,PETG,Low,2.7,SLS,40,Active cooling,0
+0.17,231,67,51,PLA,Low,3.3,FDM,59,Fan,0
+0.35,231,86,47,ABS,Medium,3.0,SLS,25,Active cooling,0
+0.28,203,56,96,Nylon,Medium,6.2,FDM,34,Active cooling,1
+0.31,226,75,39,PETG,Medium,4.7,SLA,57,Fan,0
+0.25,210,65,56,ABS,Medium,2.9,SLS,29,Passive,0
+0.12,227,79,91,ABS,High,2.9,FDM,43,Fan,1
+0.35,242,50,73,PLA,Low,3.4,SLA,25,Passive,0
+0.21,258,65,49,PLA,High,8.0,SLA,21,Active cooling,1
+0.24,217,88,55,PETG,Low,8.0,SLS,58,Active cooling,0
+0.1,253,83,48,PLA,Medium,3.6,FDM,66,Passive,1
+0.37,209,92,33,PETG,Medium,8.0,FDM,28,Fan,0
+0.33,250,86,38,Nylon,Medium,1.0,FDM,70,Passive,0
+0.37,242,87,80,Nylon,Low,5.3,SLS,25,Passive,0
+0.24,235,74,96,PETG,Low,5.3,SLA,37,Active cooling,1
+0.2,251,67,51,PETG,Low,6.5,FDM,48,Active cooling,1
+0.1,216,90,66,PLA,Low,8.8,SLS,58,Passive,0
+0.11,252,74,31,PLA,Low,6.1,SLS,40,Active cooling,1
+0.28,215,57,68,ABS,Low,7.6,SLS,27,Active cooling,0
+0.13,241,65,74,PLA,High,2.0,SLS,20,Passive,0
+0.13,219,103,85,Nylon,Low,2.5,FDM,24,Fan,1
+0.33,252,57,92,PLA,Low,8.5,FDM,69,Passive,1
+0.17,246,91,54,ABS,High,4.7,SLS,67,Active cooling,1
+0.38,206,96,92,PLA,Low,8.0,SLS,26,Fan,1
+0.16,237,108,38,PLA,Low,9.0,FDM,44,Passive,0
+0.28,259,55,56,Nylon,High,6.0,FDM,33,Fan,1
+0.35,192,59,59,ABS,High,2.2,SLS,66,Passive,1
+0.26,250,92,94,ABS,Low,9.1,SLA,61,Passive,1
+0.16,196,65,83,PETG,Medium,5.5,FDM,24,Fan,1
+0.38,194,86,45,Nylon,Low,8.7,SLS,58,Active cooling,0
+0.24,204,93,92,PLA,Low,6.6,SLA,69,Passive,1
+0.34,220,72,83,PETG,Low,3.9,SLS,51,Passive,1
+0.15,194,86,57,ABS,Low,6.4,FDM,60,Fan,1
+0.21,218,69,92,ABS,Medium,3.8,SLA,58,Passive,1
+0.27,240,54,31,ABS,Low,4.1,SLA,62,Fan,1
+0.29,210,70,89,Nylon,Medium,7.1,FDM,21,Fan,1
+0.23,221,85,95,ABS,Medium,4.1,FDM,29,Passive,1
+0.35,239,104,63,ABS,Medium,4.1,FDM,36,Passive,0
+0.35,211,110,89,ABS,Medium,6.9,SLS,69,Passive,1
+0.36,241,91,44,PETG,Medium,4.7,SLA,33,Fan,0
+0.24,255,103,93,ABS,Low,1.5,SLA,45,Fan,1
+0.3,216,78,95,PLA,High,8.0,SLA,36,Fan,1
+0.28,214,52,87,Nylon,Medium,3.9,SLS,59,Active cooling,1
+0.15,200,104,35,PLA,Low,4.9,SLS,55,Passive,0
+0.18,255,89,71,ABS,Medium,6.7,FDM,66,Active cooling,1
+0.11,205,58,49,Nylon,Medium,7.2,SLA,22,Passive,0
+0.25,217,81,91,Nylon,High,3.2,FDM,27,Active cooling,1
+0.3,195,109,48,Nylon,High,3.6,SLS,62,Fan,1
+0.27,239,73,40,PLA,High,0.6,SLS,20,Fan,0
+0.15,190,67,47,ABS,Low,9.8,SLA,36,Fan,0
+0.25,197,97,40,PLA,Low,3.2,FDM,37,Passive,0
+0.21,226,99,38,ABS,High,5.0,SLS,49,Fan,0
+0.11,223,64,42,ABS,Medium,1.4,SLA,42,Passive,0
+0.29,255,60,83,Nylon,Low,3.3,FDM,23,Fan,1
+0.12,190,65,34,Nylon,High,5.4,SLS,69,Fan,1
+0.25,242,51,65,PETG,Low,2.3,SLA,68,Active cooling,0
+0.16,207,103,80,Nylon,Medium,7.9,FDM,37,Active cooling,0
+0.17,218,92,39,PLA,High,7.9,SLS,39,Active cooling,0
+0.23,235,66,98,PETG,Medium,5.4,SLS,60,Fan,1
+0.2,193,58,36,PLA,Medium,7.2,SLA,40,Active cooling,0
+0.32,238,57,59,PETG,Low,8.4,FDM,54,Fan,0
+0.14,249,66,53,PLA,Low,9.0,SLS,48,Fan,0
+0.18,260,59,89,Nylon,Low,3.1,SLA,35,Passive,1
+0.27,257,98,95,ABS,Medium,8.3,SLA,60,Fan,1
+0.12,247,64,55,PETG,Medium,8.2,FDM,57,Active cooling,0
+0.23,229,97,31,Nylon,High,7.0,FDM,38,Fan,0
+0.27,205,102,30,PLA,Medium,2.6,SLA,60,Active cooling,0
+0.33,249,93,71,PLA,Medium,3.4,SLA,62,Fan,0
+0.21,210,83,71,ABS,Low,2.9,FDM,47,Active cooling,0
+0.2,200,110,44,Nylon,Medium,2.2,FDM,23,Fan,0
+0.37,227,91,36,ABS,Medium,8.1,FDM,41,Fan,0
+0.14,231,86,99,PLA,Medium,7.3,SLS,30,Fan,1
+0.34,205,72,46,ABS,High,6.4,SLS,36,Fan,0
+0.19,237,74,49,PETG,Low,8.1,SLA,63,Fan,0
+0.1,234,98,79,PETG,Medium,9.3,SLS,69,Passive,0
+0.19,240,71,31,ABS,High,3.0,FDM,64,Fan,1
+0.29,207,73,85,PETG,Medium,3.5,SLA,48,Passive,1
+0.37,200,86,57,PETG,Medium,2.9,SLS,56,Passive,0
+0.17,222,85,50,ABS,Medium,0.8,SLA,38,Passive,0
+0.27,257,62,32,PLA,Medium,8.7,SLA,66,Active cooling,1
+0.2,256,96,94,PETG,High,1.0,SLA,42,Fan,1
+0.28,230,101,88,PETG,High,3.1,SLA,55,Active cooling,1
+0.13,242,110,48,PETG,Low,2.6,SLA,35,Fan,0
+0.21,194,76,69,PETG,Low,3.5,SLA,66,Passive,0
+0.32,211,102,51,PLA,Medium,3.7,SLA,35,Passive,0
+0.17,252,107,72,ABS,Medium,8.5,SLA,48,Active cooling,1
+0.3,232,50,88,ABS,High,4.5,FDM,20,Fan,1
+0.2,230,64,66,PLA,Low,8.6,FDM,43,Fan,0
+0.13,244,61,62,ABS,Medium,3.1,SLA,44,Fan,0
+0.11,239,50,68,PLA,Medium,2.2,FDM,33,Passive,0
+0.25,235,86,39,ABS,High,2.0,SLS,31,Fan,0
+0.19,244,62,71,ABS,Medium,2.7,SLA,51,Passive,0
+0.33,260,52,48,PETG,High,1.3,SLA,64,Active cooling,1
+0.37,214,80,96,PETG,Medium,3.0,SLA,67,Fan,1
+0.15,191,56,79,PLA,High,5.6,SLS,61,Active cooling,1
+0.36,252,91,36,ABS,Medium,7.5,SLA,30,Active cooling,1
+0.31,190,109,54,Nylon,Low,5.4,FDM,68,Passive,0
+0.28,221,85,42,PETG,Low,7.7,SLA,25,Passive,0
+0.22,197,62,99,PLA,Low,3.6,FDM,60,Passive,1
+0.13,207,86,82,Nylon,High,2.1,FDM,58,Passive,1
+0.12,217,108,88,PLA,Low,6.5,SLS,26,Passive,1
+0.15,205,62,34,PETG,High,8.9,FDM,44,Passive,0
+0.31,234,63,100,ABS,Medium,7.6,FDM,59,Active cooling,1
+0.14,242,69,85,PLA,Medium,8.6,SLA,60,Fan,1
+0.2,204,73,81,PETG,Low,8.5,SLS,31,Fan,1
+0.12,199,87,91,PETG,High,6.9,SLA,50,Passive,1
+0.23,197,63,76,PLA,High,4.8,SLA,62,Fan,1
+0.19,190,62,35,PETG,High,3.1,SLA,40,Fan,0
+0.18,226,87,98,PETG,Medium,4.8,SLA,46,Fan,1
+0.19,233,77,37,ABS,High,0.7,SLA,21,Fan,0
+0.23,226,63,79,Nylon,Low,0.7,SLS,69,Fan,0
+0.24,252,95,51,Nylon,Low,5.7,SLA,54,Fan,1
+0.32,196,72,38,PETG,Medium,1.1,SLA,67,Passive,0
+0.39,259,79,93,ABS,High,5.0,FDM,28,Fan,1
+0.19,192,90,32,PETG,High,2.9,FDM,20,Fan,0
+0.11,238,51,66,Nylon,Medium,4.2,SLS,56,Passive,0
+0.15,217,54,56,Nylon,Low,5.5,SLA,66,Fan,0
+0.1,229,99,92,PETG,High,4.2,SLA,43,Passive,1
+0.15,216,69,67,Nylon,Medium,5.5,FDM,67,Fan,0
+0.11,220,107,58,PLA,Medium,3.1,SLA,35,Passive,0
+0.4,200,50,91,ABS,Medium,4.8,FDM,51,Active cooling,1
+0.16,231,68,31,Nylon,High,2.5,SLA,44,Passive,0
+0.3,209,69,77,PETG,Low,6.8,SLA,69,Active cooling,0
+0.22,217,96,80,ABS,High,4.5,SLA,69,Passive,1
+0.32,231,94,99,PLA,High,2.6,SLA,46,Passive,1
+0.11,259,76,45,PETG,High,0.8,SLA,31,Passive,1
+0.34,225,97,30,Nylon,Low,1.1,SLA,53,Passive,0
+0.33,198,69,34,PETG,Medium,5.3,FDM,60,Fan,0
+0.24,236,64,54,PLA,Medium,6.8,SLS,64,Fan,0
+0.22,196,53,67,ABS,Low,1.5,FDM,69,Fan,1
+0.39,250,67,73,ABS,Low,5.5,SLA,53,Fan,0
+0.24,209,70,95,ABS,Low,9.4,FDM,50,Passive,1
+0.35,216,77,94,PLA,Medium,8.2,FDM,36,Passive,1
+0.16,258,106,71,ABS,Medium,9.2,SLS,56,Passive,1
+0.24,216,96,58,PLA,High,2.3,SLS,35,Active cooling,0
+0.11,207,76,30,Nylon,Medium,2.2,FDM,20,Fan,0
+0.31,243,94,35,Nylon,Low,2.1,FDM,61,Active cooling,0
+0.15,228,88,94,PETG,Medium,1.8,SLS,36,Active cooling,1
+0.3,259,100,59,PLA,High,4.7,SLA,20,Fan,1
+0.16,244,87,51,PETG,High,5.8,SLA,61,Passive,1
+0.27,221,92,67,PETG,Low,1.8,FDM,46,Fan,0
+0.39,214,85,69,ABS,Low,1.7,SLS,38,Fan,0
+0.36,215,101,45,PLA,Medium,9.9,FDM,48,Fan,0
+0.27,193,77,44,Nylon,High,2.5,SLA,67,Passive,1
+0.18,246,97,66,ABS,Low,8.7,SLS,63,Fan,1
+0.35,254,86,49,Nylon,Medium,2.2,FDM,55,Passive,1
+0.27,235,56,66,PLA,High,8.3,SLS,26,Passive,0
+0.13,228,56,33,ABS,High,8.0,SLA,43,Active cooling,0
+0.27,198,53,30,PETG,High,4.0,SLS,52,Passive,1
+0.35,191,64,65,Nylon,Medium,7.8,SLA,70,Fan,0
+0.1,230,97,47,Nylon,Low,7.3,SLS,29,Active cooling,0
+0.39,207,77,57,PLA,High,3.7,FDM,55,Active cooling,1
+0.19,238,106,41,ABS,Medium,1.1,SLS,67,Passive,1
+0.3,205,103,69,PETG,Medium,4.2,SLA,27,Active cooling,0
+0.34,252,64,38,ABS,Low,0.6,SLS,49,Fan,1
+0.3,249,92,35,Nylon,Low,6.0,SLA,33,Fan,0
+0.33,212,92,74,Nylon,Low,2.6,FDM,48,Fan,0
+0.12,252,63,85,ABS,High,6.2,SLS,65,Active cooling,1
+0.29,252,109,45,ABS,Low,7.9,SLS,68,Passive,1
+0.21,228,56,71,PLA,Low,7.7,FDM,22,Active cooling,0
+0.29,246,75,37,PLA,Medium,1.3,FDM,36,Passive,0
+0.19,240,96,73,PLA,Medium,2.7,SLA,58,Active cooling,0
+0.33,240,86,43,PLA,High,6.5,FDM,40,Active cooling,0
+0.21,259,98,38,PLA,Medium,1.6,SLS,51,Passive,1
+0.4,235,84,32,ABS,Medium,9.6,SLA,57,Passive,1
+0.39,208,93,74,PLA,Low,7.3,SLA,32,Passive,0
+0.37,228,107,37,ABS,Medium,5.5,SLA,48,Passive,0
+0.38,246,50,58,ABS,High,4.4,SLA,23,Passive,0
+0.25,214,98,45,ABS,Low,1.4,SLA,66,Active cooling,1
+0.4,197,50,80,Nylon,Low,4.4,SLS,30,Fan,0
+0.29,216,65,97,Nylon,Medium,1.8,FDM,21,Fan,1
+0.31,243,101,32,Nylon,Medium,3.5,SLS,45,Fan,0
+0.38,216,94,47,Nylon,Low,3.3,SLA,45,Fan,0
+0.37,199,66,89,PETG,Low,7.8,SLS,39,Passive,1
+0.2,228,104,82,ABS,Medium,2.9,SLA,54,Active cooling,1
+0.32,250,75,85,ABS,High,5.5,SLS,38,Fan,1
+0.37,252,68,81,PLA,Medium,1.5,SLA,38,Passive,1
+0.34,204,88,80,PLA,High,5.5,SLA,44,Fan,0
+0.4,205,82,43,PETG,High,7.4,FDM,54,Fan,1
+0.11,222,96,41,PLA,Low,1.4,SLS,33,Passive,0
+0.32,251,106,54,PETG,High,7.6,SLS,53,Fan,1
+0.25,211,80,35,PLA,Medium,8.7,FDM,36,Passive,0
+0.29,224,78,87,Nylon,Low,1.1,FDM,38,Passive,1
+0.28,193,95,44,PETG,Low,9.7,FDM,24,Passive,0
+0.4,207,51,93,Nylon,High,1.3,FDM,68,Fan,1
+0.2,255,84,88,PLA,Medium,4.5,SLA,24,Passive,1
+0.14,250,61,40,ABS,Low,9.3,FDM,23,Active cooling,0
+0.2,256,84,55,PLA,Medium,3.2,SLS,46,Fan,1
+0.27,253,77,50,ABS,Low,5.5,FDM,34,Passive,1
+0.26,208,85,39,PETG,High,8.4,SLA,51,Active cooling,1
+0.12,233,77,56,PLA,Low,6.0,SLS,48,Active cooling,0
+0.28,194,89,57,Nylon,Medium,6.3,FDM,50,Passive,0
+0.35,227,63,60,PLA,Medium,6.1,FDM,23,Passive,0
+0.22,254,76,46,Nylon,High,4.2,FDM,28,Active cooling,1
+0.33,241,77,49,PETG,Low,9.7,SLS,63,Passive,0
+0.13,248,52,59,PETG,High,1.0,FDM,26,Fan,0
+0.2,257,72,82,PLA,High,1.8,FDM,42,Passive,1
+0.16,217,90,83,Nylon,Medium,3.5,FDM,44,Passive,1
+0.16,243,89,60,Nylon,Low,5.8,FDM,48,Passive,0
+0.32,230,81,67,PLA,Medium,2.2,FDM,55,Passive,0
+0.31,240,67,55,ABS,Low,2.1,SLA,42,Fan,0
+0.25,207,59,67,PETG,Low,9.0,SLA,69,Passive,0
+0.34,192,71,93,Nylon,High,8.0,SLA,40,Passive,1
+0.3,239,70,36,PLA,Low,2.1,SLA,64,Passive,0
+0.19,223,110,70,Nylon,High,6.3,SLA,45,Fan,0
+0.27,243,61,41,PLA,Low,5.2,FDM,28,Active cooling,0
+0.26,223,82,65,PETG,Low,4.8,SLA,37,Active cooling,0
+0.35,249,53,82,ABS,Medium,4.5,SLA,54,Passive,1
+0.23,224,75,57,PLA,Low,2.4,FDM,50,Passive,0
+0.39,202,73,41,PETG,High,4.1,SLS,69,Active cooling,1
+0.22,242,67,58,Nylon,Medium,9.2,SLS,66,Fan,0
+0.11,190,73,76,PLA,High,8.4,FDM,33,Active cooling,0
+0.21,250,76,43,PETG,Medium,2.6,FDM,45,Active cooling,0
+0.35,199,52,65,Nylon,High,7.8,SLA,39,Passive,0
+0.15,191,104,95,ABS,Medium,7.9,FDM,70,Fan,1
+0.22,260,58,52,Nylon,High,1.6,SLA,52,Fan,1
+0.37,242,52,91,Nylon,Medium,4.1,FDM,70,Active cooling,1
+0.23,190,96,89,Nylon,Medium,7.3,SLA,68,Active cooling,1
+0.34,207,70,31,Nylon,Medium,7.0,SLA,59,Passive,0
+0.37,200,98,73,Nylon,Medium,1.6,SLS,20,Passive,0
+0.3,203,106,86,ABS,Medium,3.7,FDM,55,Active cooling,1
+0.25,223,51,35,ABS,Medium,8.4,SLS,52,Active cooling,0
+0.29,219,107,65,ABS,Medium,2.4,FDM,58,Active cooling,1
+0.2,192,95,57,PETG,Medium,2.0,SLS,46,Active cooling,0
+0.31,253,71,83,PETG,Medium,8.1,SLS,64,Fan,1
+0.36,195,109,86,PLA,High,7.8,FDM,21,Fan,1
+0.24,256,92,71,ABS,Medium,8.0,SLS,60,Passive,1
+0.3,247,55,46,ABS,High,7.8,FDM,36,Passive,0
+0.21,205,58,94,PLA,High,4.5,FDM,52,Active cooling,1
+0.33,232,62,74,ABS,Low,9.6,FDM,26,Passive,0
+0.3,193,55,67,PLA,High,5.5,FDM,20,Fan,0
+0.2,257,107,54,ABS,High,5.3,SLS,49,Active cooling,1
+0.26,210,73,100,Nylon,Low,2.1,SLA,61,Active cooling,1
+0.28,240,102,74,PETG,Low,2.2,SLS,20,Fan,0
+0.19,191,73,75,PETG,Low,2.8,SLS,21,Passive,0
+0.37,213,63,44,PETG,Low,1.8,SLS,45,Active cooling,0
+0.36,193,55,84,Nylon,Medium,6.1,SLA,59,Active cooling,1
+0.18,257,54,70,ABS,Low,9.7,FDM,39,Active cooling,1
+0.29,230,74,50,Nylon,Medium,5.6,FDM,48,Fan,0
+0.35,226,103,98,Nylon,Low,2.8,SLA,38,Passive,1
+0.15,241,81,34,Nylon,High,3.5,FDM,39,Active cooling,0
+0.34,194,65,89,ABS,Low,1.1,SLA,28,Active cooling,1
+0.35,214,89,100,Nylon,High,8.2,SLS,22,Passive,1
+0.11,260,72,33,Nylon,High,2.0,SLA,49,Fan,1
+0.22,198,103,67,PLA,High,3.6,SLA,48,Passive,0
+0.11,245,100,60,PLA,Medium,6.1,SLA,49,Active cooling,0
+0.1,208,73,48,PLA,Low,1.9,SLA,27,Active cooling,0
+0.34,247,104,84,Nylon,Low,4.8,SLA,47,Passive,1
+0.34,200,62,69,Nylon,Low,5.1,FDM,51,Fan,0
+0.23,235,86,47,Nylon,High,4.5,SLA,67,Active cooling,1
+0.2,210,92,97,PLA,Medium,9.8,SLS,41,Passive,1
+0.36,206,63,100,ABS,High,9.5,SLS,54,Active cooling,1
+0.3,219,51,86,PETG,Medium,4.7,SLS,54,Active cooling,1
+0.23,247,69,40,PLA,Medium,7.5,SLA,45,Passive,0
+0.24,204,53,47,ABS,High,8.5,FDM,45,Fan,0
+0.1,254,88,98,PETG,Medium,3.3,SLA,65,Fan,1
+0.29,243,94,48,Nylon,Low,6.0,SLS,38,Passive,0
+0.14,204,65,78,ABS,Low,9.7,SLA,21,Fan,0
+0.15,205,82,47,PETG,High,8.5,SLS,61,Fan,1
+0.12,223,63,98,Nylon,Medium,2.2,FDM,70,Passive,1
+0.39,193,73,70,Nylon,Medium,3.8,FDM,40,Passive,0
+0.38,202,51,100,ABS,Medium,4.6,SLA,41,Fan,1
+0.18,239,84,62,PETG,Low,1.5,SLS,37,Passive,0
+0.12,248,75,31,PETG,Medium,9.7,SLS,38,Fan,0
+0.23,219,85,93,PLA,Medium,9.6,SLA,52,Active cooling,1
+0.19,225,105,74,Nylon,Low,7.1,SLA,21,Fan,0
+0.14,221,79,37,PETG,Medium,5.6,SLS,63,Active cooling,0
+0.28,248,50,37,ABS,Low,1.2,FDM,69,Passive,1
+0.11,258,78,86,Nylon,High,9.9,FDM,64,Passive,1
+0.17,233,69,95,ABS,Medium,7.5,SLS,69,Fan,1
+0.16,248,53,67,PLA,High,0.8,SLA,20,Passive,0
+0.35,242,94,47,Nylon,High,7.9,SLA,43,Fan,0
+0.17,191,107,70,PLA,Low,4.5,FDM,44,Passive,0
+0.34,259,62,75,PLA,Low,3.2,SLA,47,Active cooling,1
+0.38,214,99,55,PLA,High,2.3,SLS,60,Fan,1
+0.28,198,60,75,Nylon,High,0.8,SLS,44,Fan,0
+0.37,240,79,44,ABS,Low,3.1,FDM,33,Passive,0
+0.16,226,87,49,PETG,Low,3.8,FDM,58,Passive,0
+0.39,250,107,45,PLA,High,2.7,SLA,65,Active cooling,1
+0.25,215,59,77,ABS,Low,3.7,SLS,21,Fan,0
+0.38,217,82,49,PETG,Low,1.3,FDM,41,Active cooling,0
+0.37,241,77,60,ABS,Low,7.0,FDM,20,Fan,0
+0.13,246,110,100,Nylon,Medium,4.2,SLA,33,Active cooling,1
+0.27,228,99,97,Nylon,Low,3.5,FDM,68,Fan,1
+0.18,257,64,35,Nylon,Low,4.6,SLS,70,Fan,1
+0.29,258,73,59,PLA,Low,7.0,FDM,31,Fan,1
+0.38,259,71,57,PETG,High,3.8,SLS,69,Active cooling,1
+0.29,202,93,65,ABS,Medium,1.2,FDM,68,Fan,1
+0.14,194,81,78,PETG,Low,7.6,FDM,55,Fan,0
+0.25,226,63,58,Nylon,Medium,0.8,FDM,69,Active cooling,0
+0.34,201,81,31,ABS,Low,0.7,FDM,49,Active cooling,0
+0.32,240,110,69,Nylon,High,1.2,SLS,20,Active cooling,0
+0.27,205,96,97,Nylon,Low,9.9,SLA,61,Passive,1
+0.12,242,98,80,PLA,Low,6.9,SLS,59,Fan,0
+0.27,252,81,32,PETG,Low,3.3,SLA,48,Passive,1
+0.11,237,65,70,ABS,Low,7.2,FDM,23,Passive,0
+0.31,196,89,35,Nylon,Medium,4.2,SLA,34,Fan,0
+0.39,220,95,60,PLA,High,7.2,SLA,22,Passive,0
+0.3,226,97,74,Nylon,Low,8.9,SLS,20,Active cooling,0
+0.31,226,101,77,ABS,High,8.2,SLS,30,Fan,0
+0.34,221,64,89,Nylon,Low,0.6,SLA,61,Passive,1
+0.22,193,110,95,PLA,Medium,1.7,SLS,59,Fan,1
+0.16,199,95,97,ABS,High,3.0,FDM,55,Fan,1
+0.13,215,94,69,PLA,Low,0.7,FDM,53,Active cooling,0
+0.34,208,93,89,PETG,Low,6.8,FDM,48,Active cooling,1
+0.25,218,89,45,Nylon,High,9.5,SLA,70,Fan,1
+0.31,204,67,33,Nylon,Low,7.4,FDM,48,Passive,0
+0.13,236,87,53,PETG,Low,7.4,FDM,58,Active cooling,0
+0.11,209,92,58,PETG,High,4.0,SLA,31,Active cooling,0
+0.15,248,110,41,PLA,High,6.6,FDM,58,Fan,1
+0.26,244,105,75,PETG,Medium,0.7,SLA,32,Passive,0
+0.17,196,84,65,ABS,Medium,5.9,SLS,65,Passive,1
+0.27,194,52,43,ABS,Low,0.9,SLS,41,Active cooling,0
+0.24,222,78,58,PETG,High,4.7,FDM,47,Fan,0
+0.37,242,81,86,PETG,High,6.8,FDM,51,Passive,1
+0.18,192,70,99,ABS,High,2.1,SLA,54,Passive,1
+0.17,216,50,37,ABS,High,9.4,FDM,38,Passive,0
+0.39,218,87,92,PETG,Low,1.7,SLS,24,Fan,1
+0.13,225,73,35,PETG,Low,9.4,SLS,31,Active cooling,0
+0.12,260,73,59,PLA,High,3.6,FDM,56,Active cooling,1
+0.22,254,72,49,Nylon,Low,3.8,SLS,31,Active cooling,1
+0.38,243,84,46,ABS,Low,7.1,SLA,40,Fan,0
+0.18,244,110,94,PETG,High,2.8,SLS,41,Passive,1
+0.12,196,84,94,PLA,Low,1.6,FDM,31,Fan,1
+0.2,210,77,64,PETG,Low,5.6,SLS,41,Passive,0
+0.11,198,54,54,Nylon,Medium,8.1,SLS,42,Passive,0
+0.36,200,93,30,PLA,Medium,1.6,SLA,54,Fan,0
+0.27,208,63,38,PETG,Medium,10.0,FDM,37,Fan,0
+0.13,193,68,98,ABS,Medium,3.8,SLA,68,Active cooling,1
+0.13,215,106,47,Nylon,Medium,4.2,FDM,44,Passive,0
+0.36,227,79,39,ABS,Medium,5.0,FDM,39,Fan,0
+0.39,228,75,78,ABS,Medium,6.3,SLA,46,Active cooling,0
+0.36,211,56,36,PETG,Low,7.8,SLS,30,Passive,0
+0.35,253,104,34,Nylon,Medium,4.8,SLS,68,Passive,1
+0.14,243,105,86,Nylon,High,4.1,FDM,58,Passive,1
+0.28,232,107,54,ABS,Low,4.0,SLA,31,Active cooling,0
+0.2,202,65,45,Nylon,High,3.7,SLS,33,Passive,0
+0.15,216,67,94,PETG,Low,8.0,FDM,27,Passive,1
+0.34,199,83,77,PLA,High,8.4,FDM,68,Passive,1
+0.12,220,51,86,Nylon,Medium,5.9,SLA,33,Passive,1
+0.35,224,66,35,Nylon,Medium,2.9,SLA,35,Active cooling,0
+0.31,206,81,35,PLA,Low,6.2,SLA,40,Passive,0
+0.33,209,73,70,ABS,Medium,5.5,SLA,40,Active cooling,0
+0.12,240,68,87,Nylon,High,4.7,FDM,46,Fan,1
+0.14,228,86,78,PETG,High,0.8,SLA,55,Active cooling,1
+0.32,251,65,57,PLA,Medium,3.0,SLS,59,Fan,1
+0.34,200,94,85,Nylon,Medium,9.8,SLS,51,Fan,1
+0.15,249,86,64,PLA,Medium,1.9,FDM,58,Active cooling,0
+0.14,191,77,31,PLA,Medium,4.2,SLA,59,Fan,0
+0.12,224,98,40,ABS,Low,8.6,SLA,68,Passive,1
+0.29,217,61,47,ABS,High,2.5,SLA,67,Active cooling,1
+0.16,226,52,57,PETG,High,1.6,FDM,67,Fan,1
+0.23,226,66,100,ABS,Low,7.6,SLA,32,Fan,1
+0.17,201,94,70,ABS,Low,1.4,SLS,30,Active cooling,0
+0.35,235,96,39,Nylon,Low,9.4,SLS,47,Active cooling,0
+0.34,247,100,41,Nylon,Medium,1.1,FDM,58,Fan,0
+0.12,247,75,76,ABS,Low,3.6,FDM,57,Fan,1
+0.18,240,78,85,Nylon,Medium,3.3,FDM,24,Active cooling,1
+0.15,190,64,72,ABS,Medium,3.6,FDM,39,Active cooling,0
+0.17,225,84,55,Nylon,Low,1.6,FDM,56,Active cooling,0
+0.16,252,60,79,Nylon,Medium,5.9,SLA,39,Passive,1
+0.33,219,65,88,PLA,High,3.1,FDM,69,Fan,1
+0.3,229,72,85,PETG,Low,6.8,SLS,36,Fan,1
+0.22,211,107,34,ABS,Medium,3.8,SLA,42,Passive,0
+0.18,201,57,36,Nylon,Low,4.2,SLA,23,Active cooling,0
+0.24,209,109,70,Nylon,Low,8.3,SLS,63,Fan,0
+0.28,199,78,35,PLA,Medium,3.2,SLA,64,Passive,0
+0.31,260,99,71,PETG,High,7.2,SLS,64,Active cooling,1
+0.11,210,80,95,ABS,Medium,1.3,SLA,63,Fan,1
+0.24,251,86,98,PETG,Medium,4.2,FDM,67,Active cooling,1
+0.24,198,67,73,PETG,Medium,4.4,FDM,39,Passive,0
+0.2,228,72,33,ABS,Medium,9.7,SLS,24,Fan,0
+0.26,196,88,86,ABS,High,1.3,SLS,68,Active cooling,1
+0.33,233,85,97,PETG,High,8.9,SLA,41,Fan,1
+0.37,209,72,98,PETG,Medium,8.9,SLS,31,Passive,1
+0.36,242,79,77,Nylon,High,5.4,FDM,42,Fan,0
+0.35,208,79,64,ABS,High,7.0,SLS,28,Passive,0
+0.12,238,62,68,ABS,High,9.9,SLA,32,Active cooling,0
+0.3,215,105,97,PLA,High,2.8,FDM,67,Active cooling,1
+0.2,206,67,83,ABS,Low,2.1,SLA,53,Passive,1
+0.34,245,71,68,Nylon,Low,7.9,SLS,30,Passive,0
+0.35,199,83,96,Nylon,Low,3.6,SLS,52,Fan,1
+0.14,226,64,97,PLA,Medium,3.5,FDM,54,Passive,1
+0.24,242,110,79,ABS,Low,2.1,FDM,22,Fan,0
+0.22,239,82,91,Nylon,High,8.9,SLS,64,Passive,1
+0.18,250,102,45,PLA,High,9.3,SLS,39,Passive,0
+0.21,245,78,71,PETG,Medium,9.3,FDM,62,Fan,0
+0.33,220,71,91,PETG,Medium,1.9,FDM,57,Passive,1
+0.17,218,78,41,PETG,Low,1.0,FDM,61,Fan,0
+0.31,211,53,88,Nylon,Low,3.7,SLS,65,Passive,1
+0.26,241,88,36,Nylon,Low,2.8,SLA,68,Active cooling,0
+0.3,203,79,76,Nylon,Medium,8.7,FDM,69,Passive,0
+0.37,218,59,59,PLA,High,1.4,SLS,55,Fan,1
+0.1,207,65,32,Nylon,Low,5.9,FDM,27,Active cooling,0
+0.16,252,59,39,ABS,Low,1.2,SLA,25,Fan,1
+0.15,202,58,86,ABS,High,1.2,SLS,50,Active cooling,1
+0.12,232,106,72,Nylon,Low,0.6,SLA,58,Active cooling,0
+0.18,237,92,66,PETG,Low,1.7,SLA,29,Active cooling,0
+0.38,193,53,83,ABS,Low,6.4,SLS,51,Fan,1
+0.34,225,71,61,Nylon,Low,9.4,FDM,31,Active cooling,0
+0.29,192,90,56,ABS,Low,1.9,SLA,39,Active cooling,0
+0.38,246,102,60,PLA,Low,4.2,SLA,44,Active cooling,0
+0.25,258,103,65,PLA,Medium,2.6,SLA,38,Fan,1
+0.32,242,61,47,PLA,Low,2.9,SLA,55,Fan,0
+0.11,248,101,88,PETG,Low,4.5,FDM,35,Passive,1
+0.4,225,81,32,PLA,Low,4.0,SLA,69,Active cooling,0
+0.24,206,75,81,ABS,High,4.1,FDM,46,Fan,1
+0.24,234,102,64,PLA,Low,8.1,SLS,20,Passive,0
+0.35,224,72,30,Nylon,High,5.8,SLS,40,Fan,0
+0.31,232,62,100,ABS,Low,9.8,FDM,69,Fan,1
+0.24,247,90,95,PETG,High,3.9,SLA,54,Fan,1
+0.29,203,73,35,ABS,Low,4.4,SLA,49,Passive,0
+0.23,215,79,39,PLA,High,9.0,SLS,27,Active cooling,0
+0.32,247,69,54,PETG,High,7.5,SLS,25,Passive,0
+0.38,210,57,81,ABS,Medium,1.5,FDM,54,Passive,1
+0.24,243,59,44,PLA,Medium,0.9,SLS,34,Fan,0
+0.14,207,75,73,PLA,Medium,1.6,FDM,66,Passive,0
+0.22,260,93,72,ABS,Low,3.2,SLA,42,Active cooling,1
+0.28,226,81,64,PETG,High,8.0,SLS,64,Fan,1
+0.2,208,109,84,ABS,High,8.8,SLA,53,Active cooling,1
+0.35,218,55,91,Nylon,Low,1.0,SLS,36,Passive,1
+0.2,198,72,77,PLA,High,7.8,SLA,20,Fan,0
+0.16,209,90,66,PETG,Medium,4.7,SLA,50,Active cooling,0
+0.37,219,61,99,ABS,High,4.5,SLA,46,Passive,1
+0.35,254,79,67,PLA,Medium,6.3,SLS,56,Passive,1
+0.3,206,64,82,PETG,High,9.7,SLS,63,Passive,1
+0.12,250,58,65,ABS,Low,8.4,SLS,62,Fan,1
+0.26,199,58,75,Nylon,High,5.2,FDM,58,Fan,1
+0.16,200,74,61,PLA,Medium,6.4,SLA,49,Fan,0
+0.11,238,52,52,PETG,Medium,5.8,FDM,25,Passive,0
+0.12,199,84,84,PLA,Medium,9.6,FDM,42,Passive,1
+0.28,215,88,68,ABS,Medium,7.1,FDM,47,Passive,0
+0.31,223,56,97,PETG,High,6.3,SLA,40,Passive,1
+0.18,237,58,100,ABS,Low,3.1,SLS,70,Active cooling,1
+0.36,227,99,78,PLA,Medium,1.1,SLA,61,Fan,0
+0.34,195,94,86,ABS,High,5.9,SLS,68,Passive,1
+0.28,233,81,44,ABS,Medium,4.8,SLA,65,Passive,1
+0.39,235,85,45,ABS,High,5.7,SLA,37,Fan,0
+0.23,202,69,70,Nylon,Low,4.8,SLS,37,Active cooling,0
+0.24,239,68,51,PETG,Medium,8.1,FDM,30,Fan,0
+0.12,213,91,90,ABS,Low,3.3,FDM,44,Fan,1
+0.19,241,62,49,PLA,High,6.3,FDM,33,Passive,0
+0.33,217,71,93,PETG,High,8.8,SLS,21,Passive,1
+0.38,217,64,92,PLA,High,7.5,FDM,21,Fan,1
+0.24,231,51,72,PETG,Low,4.6,SLS,31,Fan,0
+0.15,247,95,61,PLA,Medium,10.0,SLS,59,Fan,0
+0.1,231,65,30,Nylon,High,2.0,FDM,56,Passive,1
+0.29,200,97,90,ABS,Low,9.6,SLA,59,Active cooling,1
+0.23,206,85,58,PLA,Low,4.7,SLS,42,Active cooling,0
+0.25,205,97,79,PLA,Low,3.0,FDM,63,Passive,0
+0.34,218,94,69,PETG,Medium,3.8,FDM,51,Fan,0
+0.17,211,54,100,Nylon,Medium,1.7,FDM,49,Active cooling,1
+0.38,194,90,89,Nylon,High,7.8,SLS,65,Active cooling,1
+0.34,235,84,47,PETG,High,4.6,FDM,21,Passive,0
+0.3,259,94,95,ABS,Low,4.4,FDM,51,Fan,1
+0.37,221,97,96,PETG,Medium,5.1,FDM,58,Fan,1
+0.2,207,85,33,ABS,Medium,1.8,SLA,50,Active cooling,0
+0.16,236,106,88,PLA,Medium,4.8,SLA,41,Fan,1
+0.22,206,94,83,PLA,Low,5.4,FDM,44,Passive,1
+0.32,249,94,82,Nylon,Low,8.0,SLS,46,Passive,1
+0.37,199,98,63,Nylon,Low,5.9,FDM,28,Fan,0
+0.29,255,81,84,PETG,Medium,2.5,SLS,27,Fan,1
+0.21,251,83,69,PETG,Low,4.1,SLA,41,Passive,1
+0.14,205,110,43,PETG,High,7.3,SLA,52,Active cooling,1
+0.29,242,51,81,Nylon,Medium,6.6,FDM,20,Fan,1
+0.32,210,104,98,PETG,Medium,1.9,SLS,26,Active cooling,1
+0.36,231,74,65,PLA,Medium,9.3,SLA,69,Fan,0
+0.36,236,84,50,Nylon,High,4.8,SLA,22,Active cooling,0
+0.15,235,83,82,Nylon,High,0.5,SLA,59,Fan,1
+0.36,224,79,75,PETG,Medium,2.8,SLS,27,Passive,0
+0.36,219,56,41,Nylon,Medium,3.9,SLS,37,Fan,0
+0.39,227,90,85,PLA,Low,3.6,SLA,69,Fan,1
+0.21,224,60,89,Nylon,Medium,2.7,FDM,70,Active cooling,1
+0.21,210,82,94,PLA,Low,7.6,SLA,22,Fan,1
+0.21,216,83,74,ABS,High,0.5,SLS,36,Fan,0
+0.2,196,85,36,PETG,Medium,4.7,FDM,45,Fan,0
+0.28,245,57,88,Nylon,Low,1.0,FDM,40,Passive,1
+0.22,248,65,73,Nylon,Medium,2.8,SLS,36,Fan,0
+0.33,212,63,60,PLA,Low,6.2,FDM,45,Passive,0
+0.13,217,68,78,ABS,Medium,8.5,FDM,45,Passive,0
+0.12,234,89,57,ABS,Low,1.6,FDM,52,Active cooling,0
+0.16,205,72,72,ABS,Medium,1.1,FDM,21,Fan,0
+0.12,242,89,57,ABS,High,1.2,SLA,55,Fan,1
+0.28,228,73,96,PETG,Medium,2.0,SLS,64,Fan,1
+0.21,198,84,72,PLA,Medium,6.8,FDM,49,Fan,0
+0.11,211,68,64,PLA,Low,7.7,FDM,27,Passive,0
+0.2,199,50,76,Nylon,Medium,8.9,SLA,67,Active cooling,0
+0.39,197,109,65,ABS,High,6.8,FDM,30,Fan,0
+0.12,249,98,36,PLA,Medium,9.8,SLS,38,Fan,0
+0.37,235,98,39,Nylon,Low,6.8,SLS,67,Passive,0
+0.33,229,50,53,PLA,Low,3.7,SLS,44,Active cooling,0
+0.25,206,84,84,Nylon,Low,7.3,SLA,54,Fan,1
+0.3,249,96,63,Nylon,Medium,7.3,FDM,67,Passive,0
+0.11,192,89,53,Nylon,Low,2.9,FDM,61,Active cooling,0
+0.15,230,97,33,ABS,Low,5.3,SLS,64,Fan,1
+0.24,220,88,85,PLA,Medium,9.3,SLA,64,Fan,1
+0.19,205,73,69,PETG,High,5.9,SLS,41,Passive,0
+0.11,255,78,61,Nylon,High,3.0,SLA,49,Active cooling,1
+0.24,239,100,87,PETG,Medium,2.5,SLA,31,Active cooling,1
+0.3,242,99,85,Nylon,Low,6.2,FDM,24,Active cooling,1
+0.13,210,106,92,ABS,Medium,8.2,SLS,58,Passive,1
+0.16,237,78,74,ABS,High,1.9,SLA,60,Active cooling,1
+0.36,231,109,49,ABS,Medium,3.1,FDM,59,Active cooling,1
+0.15,257,103,78,PETG,High,2.6,FDM,29,Active cooling,1
+0.36,219,94,73,PETG,Low,7.7,FDM,39,Passive,0
+0.2,249,98,45,PETG,High,0.9,SLA,67,Fan,1
+0.3,218,54,31,PETG,Medium,8.9,SLS,51,Active cooling,0
